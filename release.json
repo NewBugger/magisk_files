@@ -8,7 +8,7 @@
   "magisk": {
     "version": "c881fd49-lite",
     "versionCode": "20416",
-    "link": "https://raw.githubusercontent.com/NewBugger/magisk_files/master/magisk_release.zip",
+    "link": "https://raw.githubusercontent.com/NewBugger/magisk_files/master/magisk-release.zip",
     "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@e4030f69a430a6fe845b28f8a9954b438b12d637/notes.md",
     "md5": "81519ef718d963f9f12d0dc2a0199cdd"
   },
